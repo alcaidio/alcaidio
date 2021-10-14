@@ -1,28 +1,15 @@
 <h1 align="left" id="macropower-title">Hello world !</h1>
 
-<p align="left">
-  <a href="https://github.com/timothyalcaide/timothyalcaide">
-    <img src="https://komarev.com/ghpvc/?username=timothyalcaide" alt="page views" />
-  </a>
-</p>
-
 <h2 align="left">I'm a french fullstack developer</h2>
 
-- 👨‍💻 &nbsp; I'm currently working at [Kaliop] in [Montpellier].
-- ❤️ I love nature, sports, my family and Javascript.
+- 👨‍💻 &nbsp; I'm currently working at [Kaliop] in [Montpellier], France.
+- ❤️ I love nature, sports, my family and the most important... Javascript 😂.
 - ✨ I'm passionate about the entrepreneurial culture and the digital world.
 - 📚 I like reading and tasting good wine too (Nobody's perfect).
 - :mailbox: &nbsp; Ask me anything on my **[issues page]**.
-- :computer: &nbsp; Keep in touch **[LinkedIn]**.
+- :computer: &nbsp; Keep in touch => **[LinkedIn]**.
 
-<!-- <br>
-<a href="#">
-  <img src="https://raw.githubusercontent.com/timothyalcaide/github-stats-transparent/output/generated/overview.svg" alt="timothyalcaide" align="right" />
-</a> -->
-
-<br>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Favorite Tech 👀</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -165,8 +152,22 @@
   </tr>
 </table>
 
-<!-- links -->
+<h2 align='left'>Some stats 📊</h2>
 
+> “Size matters not. Look at me. Judge me by my size, do you?” - Yoda
+
+[![Timothy's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=timothyalcaide&show_icons=true&theme=dark)](https://github.com/timothyalcaide/timothyalcaide)
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=timothyalcaide&layout=compact&theme=dark)](https://github.com/timothyalcaide/timothyalcaide)
+
+
+<p align="left">
+  <a href="https://github.com/timothyalcaide/timothyalcaide">
+    <img src="https://komarev.com/ghpvc/?username=timothyalcaide" alt="page views" />
+  </a>
+</p>
+
+<!-- links -->
 [kaliop]: https://www.kaliop.com/en/ "Kaliop Homepage"
 [issues page]: https://github.com/timothyalcaide/timothyalcaide/issues "timothyalcaide/issues"
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
