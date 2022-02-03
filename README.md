@@ -2,7 +2,7 @@
 
 <h2 align="left">I'm a french fullstack developer</h2>
 
-- 👨‍💻 &nbsp; I'm currently working at [Kaliop] in [Montpellier], France.
+- 👨‍💻 &nbsp; I'm currently working at [Millionroads] in [Montpellier], France.
 - ❤️ I love nature, sports, my family and the most important... Javascript 😂.
 - ✨ I'm passionate about the entrepreneurial culture and the digital world.
 - 📚 I like reading and tasting good wine too (Nobody's perfect).
@@ -168,7 +168,7 @@
 </p>
 
 <!-- links -->
-[kaliop]: https://www.kaliop.com/en/ "Kaliop Homepage"
+[Millionroads]: https://www.millionroads.com/
 [issues page]: https://github.com/timothyalcaide/timothyalcaide/issues "timothyalcaide/issues"
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
