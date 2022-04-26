@@ -3,7 +3,7 @@
 <h2 align="left">I'm a french fullstack developer</h2>
 
 - 👨‍💻 &nbsp; I'm currently working at [Millionroads] in [Montpellier], France.
-- ❤️ I love nature, sports, my family and the most important... Javascript 😂.
+- ❤️ I love nature, sports, my family and the most important... Turn code into product 😂.
 - ✨ I'm passionate about the entrepreneurial culture and the digital world.
 - 📚 I like reading and tasting good wine too (Nobody's perfect).
 - :mailbox: &nbsp; Ask me anything on my **[issues page]**.
