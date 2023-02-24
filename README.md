@@ -5,11 +5,10 @@
 - 👨‍💻 &nbsp; I'm currently working at [Millionroads] in [Montpellier], France.
 - ❤️ I love nature, sports, my family and the most important... Turn code into product 😂.
 - ✨ I'm passionate about the entrepreneurial culture and the digital world.
-- 📚 I like reading and tasting good wine too (Nobody's perfect).
-- :mailbox: &nbsp; Ask me anything on my **[issues page]**.
-- :computer: &nbsp; Keep in touch => **[LinkedIn]**.
+- 📚 I like reading and tasting good wine too (Nobody's perfect). You can see my [notes] repository if you are curious 🧐
+- :computer: &nbsp; Keep in touch on **[LinkedIn]** or ask me anything on my **[issues page]**.
 
-<h2 align="left" id="macropower-tech">Favorite Tech 👀</h2>
+<h2 align="left">Favorite Tech 👀</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -152,14 +151,7 @@
   </tr>
 </table>
 
-<h2 align='left'>Some stats 📊</h2>
-
 > “Size matters not. Look at me. Judge me by my size, do you?” - Yoda
-
-[![Timothy's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=timothyalcaide&show_icons=true&theme=dark)](https://github.com/timothyalcaide/timothyalcaide)
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=timothyalcaide&layout=compact&theme=dark)](https://github.com/timothyalcaide/timothyalcaide)
-
 
 <p align="left">
   <a href="https://github.com/timothyalcaide/timothyalcaide">
@@ -172,3 +164,5 @@
 [issues page]: https://github.com/timothyalcaide/timothyalcaide/issues "timothyalcaide/issues"
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
+[notes]: https://github.com/timothyalcaide/learning-notes
+
