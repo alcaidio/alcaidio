@@ -15,7 +15,7 @@
 <table>
   <tr>
       <td align="center">
-        <a href="#">
+        <a href="https://angular.io/">
           <img
             src="./img/angular.png"
             width="48"
@@ -26,7 +26,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://www.typescriptlang.org/">
           <img
             src="./img/typescript.png"
             width="48"
@@ -37,7 +37,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://nestjs.com/">
           <img
             src="./img/nestjs.svg"
             width="48"
@@ -48,7 +48,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img
             src="./img/js.png"
             width="48"
@@ -59,7 +59,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://sass-lang.com/">
           <img
             src="./img/sass.png"
             width="48"
@@ -70,7 +70,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
           <img
             src="./img/firebase.png"
             width="48"
@@ -78,12 +77,11 @@
             alt="Firebase"
           />
           Firebase
-        </a>
       </td>
   </tr>
   <tr>
       <td align="center">
-        <a href="#">
+        <a href="https://graphql.org/">
           <img
             src="./img/graphql.png"
             width="48"
@@ -94,7 +92,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://tailwindcss.com/">
           <img
             src="./img/tailwind.png"
             width="48"
@@ -105,7 +103,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://vuejs.org/">
           <img
             src="./img/vuejs.png"
             width="48"
@@ -116,7 +114,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://rxjs.dev/">
           <img
             src="./img/rxjs.png"
             width="48"
@@ -127,7 +125,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://www.docker.com/">
           <img
             src="./img/docker.png"
             width="48"
@@ -138,7 +136,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="https://git-scm.com/">
             <img
               src="./img/git.png"
               width="48"
