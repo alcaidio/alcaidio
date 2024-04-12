@@ -7,7 +7,7 @@
 
 <br>
 
-Check out my **[youtube channel]** <img src="./img/youtube.png" alt="youtube" width="20"/> (in french) and keep in touch on **[LinkedIn]** ⚡️
+Check out my **[youtube channel]** <img src="./img/youtube.png" alt="youtube" width="20"/> (in french) and keep in touch on **[LinkedIn]** ⚡️ **[Twitter]** ⚡
 
 
 <h2 align="left">My favorite weapons</h2>
