@@ -32,6 +32,7 @@ Check out my **[youtube channel]** <img src="./img/youtube.png" alt="youtube" wi
 </p>
 
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
+[twitter]: https://www.twitter.com/alcaidio "Timothy Alcaide Twitter"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
 [notes]: https://github.com/timothyalcaide/learning-notes
 [youtube channel]: https://www.youtube.com/channel/UCS11gNlSZmcaIOv_DCfMplA
