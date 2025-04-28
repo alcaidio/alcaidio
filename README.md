@@ -7,7 +7,7 @@
 
 <br>
 
-Check out my **[youtube channel]** <img src="./img/youtube.png" alt="youtube" width="20"/> (in french) and keep in touch on **[LinkedIn]** ⚡️ **[Twitter]**
+Keep in touch on **[LinkedIn]** ⚡️ **[X]**
 
 
 <h2 align="left">My favorite weapons</h2>
@@ -32,7 +32,7 @@ Check out my **[youtube channel]** <img src="./img/youtube.png" alt="youtube" wi
 </p>
 
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
-[twitter]: https://www.twitter.com/alcaidio "Timothy Alcaide Twitter"
+[X]: https://www.x.com/t1m4up "t1m4up X"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
 [notes]: https://github.com/timothyalcaide/learning-notes
 [youtube channel]: https://www.youtube.com/channel/UCS11gNlSZmcaIOv_DCfMplA
