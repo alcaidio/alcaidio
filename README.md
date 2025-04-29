@@ -32,7 +32,7 @@ Keep in touch on **[LinkedIn]** ⚡️ **[X]**
 </p>
 
 [linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
-[X]: https://www.x.com/t1m4up "t1m4up X"
+[X]: https://www.x.com/t1m4lc "t1m4lc X"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
 [notes]: https://github.com/timothyalcaide/learning-notes
 [youtube channel]: https://www.youtube.com/channel/UCS11gNlSZmcaIOv_DCfMplA
